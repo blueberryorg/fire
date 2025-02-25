@@ -1,1 +1,1 @@
-{"before_node_choose_check":[{"type":1},{"type":2},{"type":3}],"node_choose_list":[{"type":5,"check_list":[{"type":4,"count":10}]},{"type":5,"check_list":[{"type":4,"count":20}]},{"type":5,"check_list":[{"type":4,"count":50}]},{"type":5,"check_list":[{"type":4,"count":100}]}]}
+{"before_node_choose_check":[{"type":1},{"type":2},{"type":3}],"node_choose_list":[{"type":5,"check_list":[{"type":4,"count":10}]},{"type":5,"check_list":[{"type":4,"count":20}]},{"type":5,"check_list":[{"type":4,"count":50}]},{"type":5,"check_list":[{"type":4,"count":100}]},{"type":4}]}
