@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,# encrypted dns servers
+  - DOMAIN-SUFFIX,doh.dns.apple.com
