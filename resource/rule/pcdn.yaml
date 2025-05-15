@@ -6,10 +6,12 @@ payload:
   - DOMAIN-SUFFIX,data.video.dns.iqiyi.com
   - DOMAIN-SUFFIX,dns.iqiyi.com
   - DOMAIN-SUFFIX,dns.jd.com
+  - DOMAIN-SUFFIX,dns.jd.com.gslb.qianxun.com
   - DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
   - DOMAIN-SUFFIX,dns.qq.com
   - DOMAIN-SUFFIX,dns.weibo.cn
   - DOMAIN-SUFFIX,dns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
   - DOMAIN-SUFFIX,doh.dns.apple.com
   - DOMAIN-SUFFIX,doh.iqiyi.com
   - DOMAIN-SUFFIX,doh.ptqy.gitv.tv

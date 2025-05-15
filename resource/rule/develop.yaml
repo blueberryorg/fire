@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,ipinfo.io
   - PROCESS-NAME,goland.exe
   - PROCESS-NAME,goland64.exe
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,appleswift.com
   - DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN-SUFFIX,calendarserver.org
@@ -29,11 +32,14 @@ payload:
   - DOMAIN-SUFFIX,macruby.com
   - DOMAIN-SUFFIX,macruby.net
   - DOMAIN-SUFFIX,macruby.org
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
   - DOMAIN-SUFFIX,push-apple.com.akadns.net
   - DOMAIN-SUFFIX,researchandcare.org
   - DOMAIN-SUFFIX,researchkit.cn
+  - DOMAIN-SUFFIX,researchkit.com.cn
   - DOMAIN-SUFFIX,researchkit.hk
   - DOMAIN-SUFFIX,researchkit.net
   - DOMAIN-SUFFIX,researchkit.org
@@ -52,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,elastic.com
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
@@ -65,6 +72,8 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,sonatype.org
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,spring.net
