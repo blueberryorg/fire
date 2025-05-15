@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,epic
+  - GEOIP,epic
   - DOMAIN-SUFFIX,battlebreakers.com
   - DOMAIN-SUFFIX,eac-cdn.com
   - DOMAIN-SUFFIX,easy.ac

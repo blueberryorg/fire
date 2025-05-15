@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,twitter
+  - GEOIP,twitter
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,periscope.tv

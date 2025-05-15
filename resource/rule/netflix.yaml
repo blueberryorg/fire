@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,netflix
+  - GEOIP,netflix
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,netflix.com.edgesuite.net
@@ -36,6 +36,7 @@ payload:
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - DOMAIN-KEYWORD,netflixdnstest
   - PROCESS-NAME,com.netflix.mediaclient
+  - USER-AGENT,Argo.*
   - IP-CIDR,3.0.5.32/29
   - IP-CIDR,3.0.5.224/27
   - IP-CIDR,3.24.1.208/28

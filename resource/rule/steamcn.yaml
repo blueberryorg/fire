@@ -1,4 +1,5 @@
 payload:
+  - GEOIP,steamcn
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
   - DOMAIN,xz.pphimalayanrt.com
   - DOMAIN-SUFFIX,steamchina.com

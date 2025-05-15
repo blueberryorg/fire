@@ -36,7 +36,7 @@ payload:
   - PROCESS-NAME,OneDrive.exe
   - DOMAIN-SUFFIX,goproxy.cn
   - DOMAIN-SUFFIX,goproxy.io
-  - UNKNOWN,downloads\.[\w]+?\.jetbrains\.com
+  - DOMAIN-REGEX,downloads\.[\w]+?\.jetbrains\.com
   - DOMAIN-SUFFIX,dmuqe.art
   - DOMAIN-SUFFIX,dam5knr.wiki
   - DOMAIN-SUFFIX,dmph5.wiki
@@ -2216,7 +2216,6 @@ payload:
   - DOMAIN-SUFFIX,duxiu.com
   - DOMAIN-SUFFIX,dwion.com
   - DOMAIN-SUFFIX,dwstatic.com
-  - DOMAIN-SUFFIX,dxycdn.com
   - DOMAIN-SUFFIX,dxzq.net
   - DOMAIN-SUFFIX,dyhjw.com
   - DOMAIN-SUFFIX,dytt8.net
@@ -3194,7 +3193,6 @@ payload:
   - DOMAIN-SUFFIX,pingplusplus.com
   - DOMAIN-SUFFIX,pipaw.com
   - DOMAIN-SUFFIX,pipaw.net
-  - DOMAIN-SUFFIX,pkoplink.com
   - DOMAIN-SUFFIX,pmphmooc.com
   - DOMAIN-SUFFIX,pn1waq.com
   - DOMAIN-SUFFIX,pnas.org
@@ -3860,7 +3858,6 @@ payload:
   - DOMAIN-SUFFIX,xwbank.com
   - DOMAIN-SUFFIX,xxsy.net
   - DOMAIN-SUFFIX,xxtmail.com
-  - DOMAIN-SUFFIX,xycdn.com
   - DOMAIN-SUFFIX,xycloud.com
   - DOMAIN-SUFFIX,xywy.com
   - DOMAIN-SUFFIX,xzking.com
@@ -17745,7 +17742,6 @@ payload:
   - DOMAIN-SUFFIX,bsbydd.com
   - DOMAIN-SUFFIX,bscabank.com
   - DOMAIN-SUFFIX,bsccdn.com
-  - DOMAIN-SUFFIX,bsccdn.net
   - DOMAIN-SUFFIX,bscdnd.com
   - DOMAIN-SUFFIX,bscdns.com
   - DOMAIN-SUFFIX,bscea.org
@@ -91731,15 +91727,12 @@ payload:
   - DOMAIN-SUFFIX,wsgtm2.com
   - DOMAIN-SUFFIX,wsoversea.org
   - DOMAIN-SUFFIX,hiveshared.com
-  - DOMAIN-SUFFIX,kuiniuca.com
   - DOMAIN-SUFFIX,onething.net
   - DOMAIN-SUFFIX,onethingc.com
   - DOMAIN-SUFFIX,onethingcloud.com
   - DOMAIN-SUFFIX,onethingd.com
   - DOMAIN-SUFFIX,onethingn.com
-  - DOMAIN-SUFFIX,onethingpcs.com
   - DOMAIN-SUFFIX,onethingtech.net
-  - DOMAIN-SUFFIX,uhabo.com
   - DOMAIN-SUFFIX,wezhibo.net
   - DOMAIN-SUFFIX,wzhibo.net
   - DOMAIN-SUFFIX,xunleioa.com
@@ -111552,6 +111545,7 @@ payload:
   - PROCESS-NAME,小米云服务.exe
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
+  - GEOIP,132203
   - IP-CIDR,103.7.28.0/22
   - IP-CIDR,104.193.90.0/24
   - IP-CIDR,120.88.56.0/23
@@ -111977,6 +111971,8 @@ payload:
   - DOMAIN-SUFFIX,letitfly.me
   - DOMAIN-SUFFIX,tmiaoo.com
   - DOMAIN-SUFFIX,xip.io
+  - USER-AGENT,MOO.*
+  - USER-AGENT,TencentMidasConnect.*
   - IP-CIDR,106.74.0.0/16
   - IP-CIDR,106.75.128.0/18
   - IP-CIDR,106.75.201.0/24
@@ -112000,6 +111996,6 @@ payload:
   - IP-CIDR,203.205.160.0/21
   - IP-CIDR,203.205.168.0/24
   - IP-CIDR,203.205.184.0/23
-  - GEO-I-P,CN
-  - GEO-I-P,LAN
+  - GEOIP,CN
+  - GEOIP,LAN
   - PROCESS-NAME,OpenVPN Connect

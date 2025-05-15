@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,telegram
+  - GEOIP,telegram
   - DOMAIN,api.imem.app
   - DOMAIN,api.swiftgram.app
   - DOMAIN-SUFFIX,cdn-telegram.org
@@ -37,3 +37,8 @@ payload:
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,tw.nekomimi.nekogram
   - PROCESS-NAME,xyz.nextalone.nagram
+  - GEOIP,211157
+  - GEOIP,44907
+  - GEOIP,59930
+  - GEOIP,62014
+  - GEOIP,62041

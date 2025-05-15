@@ -1,6 +1,6 @@
 payload:
-  - GEO-I-P,iqiyi
-  - GEO-I-P,iqiyiintl
+  - GEOIP,iqiyi
+  - GEOIP,iqiyiintl
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71edge.com
   - DOMAIN-SUFFIX,71edge.net
@@ -55,5 +55,8 @@ payload:
   - IP-CIDR,23.40.242.10/32
   - IP-CIDR,23.53.32.88/32
   - PROCESS-NAME,com.qiyi.video
+  - USER-AGENT,QYPlayer.*
+  - USER-AGENT,iQIYI.*
   - DOMAIN,intel-cache.m.iqiyi.com
   - DOMAIN,intel-cache.video.iqiyi.com
+  - URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com

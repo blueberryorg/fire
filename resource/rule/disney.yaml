@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,disney
+  - GEOIP,disney
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -160,4 +160,5 @@ payload:
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
+  - USER-AGENT,Disney.*
   - DOMAIN,cdn.registerdisney.go.com

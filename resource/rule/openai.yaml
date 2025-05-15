@@ -1,5 +1,5 @@
 payload:
-  - GEO-I-P,openai
+  - GEOIP,openai
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,gemini.google.com
@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
+  - GEOIP,20473

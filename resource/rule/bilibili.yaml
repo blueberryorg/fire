@@ -1,6 +1,6 @@
 payload:
-  - GEO-I-P,bilibili
-  - GEO-I-P,bilibiliintl
+  - GEOIP,bilibili
+  - GEOIP,bilibiliintl
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -121,4 +121,7 @@ payload:
   - PROCESS-NAME,com.bilibili.comic.intl
   - PROCESS-NAME,tv.danmaku.bili
   - PROCESS-NAME,tv.danmaku.bilibilihd
+  - USER-AGENT,Bilibili.*
+  - USER-AGENT,bili.*
+  - USER-AGENT,bili-inter.*
   - DOMAIN,apiintl.biliapi.net

@@ -10,7 +10,7 @@ payload:
   - IP-CIDR,54.233.80.253/32
   - IP-CIDR,148.100.112.81/32
   - DOMAIN-SUFFIX,qvcp1z.tk
-  - GEO-I-P,develop
+  - GEOIP,develop
   - DOMAIN-SUFFIX,ipinfo.io
   - PROCESS-NAME,goland.exe
   - PROCESS-NAME,goland64.exe
