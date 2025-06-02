@@ -12,16 +12,17 @@ payload:
   - DOMAIN-SUFFIX,qvcp1z.tk
   - GEOIP,develop
   - DOMAIN-SUFFIX,ipinfo.io
+  - PROCESS-NAME,copilot-agent-win.exe
   - PROCESS-NAME,goland.exe
   - PROCESS-NAME,goland64.exe
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,apple.com.akadns.net
   - DOMAIN-SUFFIX,appleswift.com
   - DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,carekit.org
-  - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,developerservices2.apple.com
@@ -36,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
-  - DOMAIN-SUFFIX,push-apple.com.akadns.net
   - DOMAIN-SUFFIX,researchandcare.org
   - DOMAIN-SUFFIX,researchkit.cn
   - DOMAIN-SUFFIX,researchkit.com.cn
@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,elastic.com
   - DOMAIN-SUFFIX,fontawesome.com
+  - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,jetbra.in
@@ -68,6 +69,7 @@ payload:
   - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,postman-echo.com
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org

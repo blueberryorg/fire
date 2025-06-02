@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,apidns.kwd.inkuai.com
   - DOMAIN-SUFFIX,bj.vip.waf.dns.iqiyi.com
   - DOMAIN-SUFFIX,data.video.dns.iqiyi.com
+  - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,dns.iqiyi.com
   - DOMAIN-SUFFIX,dns.jd.com
   - DOMAIN-SUFFIX,dns.jd.com.gslb.qianxun.com

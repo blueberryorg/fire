@@ -235,6 +235,7 @@ payload:
   - DOMAIN-SUFFIX,go-lang.com
   - DOMAIN-SUFFIX,go-lang.net
   - DOMAIN-SUFFIX,go-lang.org
+  - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,godoc.org
   - DOMAIN-SUFFIX,gogle.com
   - DOMAIN-SUFFIX,gogole.com
@@ -248,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
   - DOMAIN-SUFFIX,google-analytics-cn.com
+  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.ad
   - DOMAIN-SUFFIX,google.ae
@@ -687,21 +689,22 @@ payload:
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
+  - IP-CIDR,172.110.32.0/21
   - IP-CIDR,173.194.0.0/16
+  - IP-CIDR,216.73.80.0/20
   - IP-CIDR,74.125.0.0/16
+  - IP-CIDR,2620:120:e000::/40
   - PROCESS-NAME,GoogleDriveFS.exe
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.google.android.gsf
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,BackupandSync
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-KEYWORD,pa.google
   - IP-CIDR,108.177.125.188/32
   - IP-CIDR,142.250.10.188/32
   - IP-CIDR,142.250.31.188/32
